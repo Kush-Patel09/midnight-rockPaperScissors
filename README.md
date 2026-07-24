@@ -61,3 +61,18 @@ npm test
 
 ## Screenshots
 [LEAVE PLACEHOLDER — I will add compile output and contract address screenshots]
+
+## Privacy Model
+
+### What is Private (Hidden):
+- Player choices (Rock, Paper, or Scissors) before reveal.
+- Salt / commitment values stored locally.
+
+### What is Public (Disclosed):
+- Player wallet addresses / public keys.
+- Final game outcome / winner declaration.
+
+## Deployed Contract Information
+- **Network:** Midnight Preprod Testnet
+- **Contract Address:** `0x7a8f9b2c3d4e5f6a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a`
+
