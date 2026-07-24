@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "index.js",
+  "sourceRoot": "../../",
+  "sources": ["contracts/rock_paper_scissors.compact"],
+  "names": [],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAAA;;;;;;;;;;MA6BA,AAAA,SAIC;;;;;cAJwB,YAAqB;;;;;;;;;;;;;;;;;;yCAArB,YAAqB;;;;;;;;;2CAArB,YAAqB;;;OAI7C;MAED,AAAA,OAIC;;;;;cAJsB,QAAe;;;;;;;;;;;;;;;;;;yCAAf,QAAe;;;;;;;oEAAf,QAAe;;;OAIrC;MAED,AAAA,YAkBC;;;;;cAlB2B,WAAkB;cAAE,MAAe;;;;;;;;;;;;;;;;;;;;;;;;;yCAAnC,WAAkB,+BAAE,MAAe;;;;;;;;;8CAAnC,WAAkB;8CAAE,MAAe;;;OAkB9D;;;;;;;;;;;;GAEA;EA7DD;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAwBA;;;;;;;;;yEAA6B;IAC7B;;;;;;;;;yEAA4C;IAC5C;;;;;;;;;yEAAoC;IACpC;;;;;;;;;yEAA8B;;;;;;;GAkC7B;EAhCD,AAAA,YAIC,4BAJwB,YAAqB;kEACnC;;;;;;;;;;;uIAAK;;;IACZ;;;;;;;2HAAkC,YAAU;;yEAA1B;UAClB,KAAK;IAAL;;;;;;;2HAAA,KAAK;;yEAAA;;GACR;EAED,AAAA,UAIC,4BAJsB,QAAe;kEAC3B;;;;;;;;;;;uIAAK;;;4BACL,QAAM;;IACb;;;;;;;2HAA4B,QAAM;;yEAAtB;;GACf;EAED,AAAA,eAkBC,4BAlB2B,WAAkB,EAAE,MAAe;kEACpD;;;;;;;;;;;uIAAK;;;4BACL,WAAS;;UAEhB,KAAK;IAAL;;;;;;;2HAAA,KAAK;;yEAAA;UAEC,QAA4B,GAAV,WAAS;UAC3B,MAA0B,2BAAnB;;;;;;;;;;;gHAAY;sBAErB,QAAM,EAAI,MAAI;YACd,KAAM;MAAN;;;;;;;6HAAA,KAAM;;2EAAA;;wBACE,QAAM,uBAAS,MAAI;;wBACnB,QAAM,uBAAS,MAAI;;wBACnB,QAAM,uBAAS,MAAI;;cAC3B,KAAM;QAAN;;;;;;;+HAAA,KAAM;;6EAAA;;cAEN,KAAM;QAAN;;;;;;;+HAAA,KAAM;;6EAAA;;;;GAEb;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAnCD;qCAAA;;;;;;;;;;;0GAA6B;KAAA;IAC7B;qCAAA;;;;;;;;;;;0GAA4C;KAAA;IAC5C;qCAAA;;;;;;;;;;;0GAAoC;KAAA;IACpC;qCAAA;;;;;;;;;;;0GAA8B;KAAA;;;;;;;;;;"
+}
